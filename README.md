@@ -20,7 +20,7 @@
 <li>Перейдите в каталог проекта:</li>
 </ol>
 
-<pre><code>cd &lt;/project&gt;
+<pre><code>cd &lt;/task_manager2_0&gt;
 </code></pre>
 
 <ol start="3">
