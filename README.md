@@ -34,7 +34,7 @@
 <li>Запустите сервер :</li>
 </ol>
 
-<pre><code>&lt;python manage.py runserver&gt;
+<pre><code>python manage.py runserver
 </code></pre>
 
 <h2>Конечные точки API</h2>
