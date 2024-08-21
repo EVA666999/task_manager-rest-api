@@ -49,19 +49,19 @@
 <h3>Задачи</h3>
 
 <ul>
-<li><code>POST api/v1/task/</code>: Создать новую задачу.</li>
-<li><code>GET api/v1/task/code>: Получить все задачи аутентифицированного пользователя.</li>
-<li><code>PUT api/v1/task/{task_id}</code>: Обновить задачу.</li>
-<li><code>DELETE api/v1/task/{task_id}</code>: Удалить задачу.</li>
+<li><code>POST api/v1/task/ </code>: Создать новую задачу.</li>
+<li><code>GET api/v1/task/ <code>: Получить все задачи аутентифицированного пользователя.</li>
+<li><code>PUT api/v1/task/{task_id} </code>: Обновить задачу.</li>
+<li><code>DELETE api/v1/task/{task_id} </code>: Удалить задачу.</li>
 </ul>
 
 <h3>Проект</h3>
 
 <ul>
-<li><code>POST api/v1/project/</code>: Создать новуый проект.</li>
-<li><code>GET api/v1/project/code>: Получить все проекты аутентифицированного пользователя.</li>
-<li><code>PUT api/v1/project/{project_id}</code>: Обновить проект.</li>
-<li><code>DELETE api/v1/task/{project_id}</code>: Удалить проект.</li>
+<li><code>POST api/v1/project/ </code>: Создать новуый проект.</li>
+<li><code>GET api/v1/project/ <code>: Получить все проекты аутентифицированного пользователя.</li>
+<li><code>PUT api/v1/project/{project_id} </code>: Обновить проект.</li>
+<li><code>DELETE api/v1/task/{project_id} </code>: Удалить проект.</li>
 </ul>
 
   
